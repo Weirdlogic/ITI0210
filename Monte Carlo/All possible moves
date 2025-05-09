@@ -1,0 +1,129 @@
+|       |
+|       |
+|       |
+|       |
+|       |
+|       |
+|0123456|
+Your move? 0
+|       |
+|       |
+|       |
+|       |
+|       |
+|X      |
+|0123456|
+
+Win Percentages for Each Move:
+Move 0: 73.25%
+Move 1: 74.25%
+Move 2: 77.75%
+Move 3: 76.75%
+Move 4: 75.75%
+Move 5: 74.50%
+Move 6: 68.00%
+|       |
+|       |
+|       |
+|       |
+|       |
+|X O    |
+|0123456|
+Your move? 0
+|       |
+|       |
+|       |
+|       |
+|X      |
+|X O    |
+|0123456|
+
+Win Percentages for Each Move:
+Move 0: 76.50%
+Move 1: 72.00%
+Move 2: 77.25%
+Move 3: 79.75%
+Move 4: 79.25%
+Move 5: 74.50%
+Move 6: 72.50%
+|       |
+|       |
+|       |
+|       |
+|X      |
+|X OO   |
+|0123456|
+Your move? 0
+|       |
+|       |
+|       |
+|X      |
+|X      |
+|X OO   |
+|0123456|
+
+Win Percentages for Each Move:
+Move 0: 83.75%
+Move 1: 71.75%
+Move 2: 71.50%
+Move 3: 71.00%
+Move 4: 79.75%
+Move 5: 71.75%
+Move 6: 66.75%
+|       |
+|       |
+|O      |
+|X      |
+|X      |
+|X OO   |
+|0123456|
+Your move? 0
+|       |
+|X      |
+|O      |
+|X      |
+|X      |
+|X OO   |
+|0123456|
+
+Win Percentages for Each Move:
+Move 0: 83.25%
+Move 1: 88.00%
+Move 2: 92.00%
+Move 3: 91.75%
+Move 4: 95.25%
+Move 5: 86.25%
+Move 6: 88.00%
+|       |
+|X      |
+|O      |
+|X      |
+|X      |
+|X OOO  |
+|0123456|
+Your move? 2
+|       |
+|X      |
+|O      |
+|X      |
+|X X    |
+|X OOO  |
+|0123456|
+
+Win Percentages for Each Move:
+Move 0: 90.50%
+Move 1: 100.00%
+Move 2: 93.00%
+Move 3: 93.00%
+Move 4: 94.75%
+Move 5: 100.00%
+Move 6: 92.00%
+|       |
+|X      |
+|O      |
+|X      |
+|X X    |
+|XOOOO  |
+|0123456|
+Game Over!
+PS C:\Users\adetunji\Documents\ITI0210>
